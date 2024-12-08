@@ -1,2 +1,2 @@
 build-12062024-1.0.1-christmas-dev
-build-12xx2024-1.0.1-christmas-release
+build-12082024-1.0.2
